@@ -1,0 +1,19 @@
+ '1000_POI.csv', 1000대 기업
+ 'APT_100M.csv', 아파트
+ 'BANK_POI.csv', 은행
+ 'CHILDCARE_POI.csv', 어린이집
+ 'COMPOP_100M.csv', 직장인구
+ 'CVS_100M.csv', 편의점
+ 'HIGH_POI.csv', 고등학교
+ 'HOSPITAL_100M.csv', 병원
+ 'HOUSPOP_100M.csv', 주거인구
+ 'INCOMECLASS_100M.csv',  추정소득분위
+ 'KINDERGARDEN_POI.csv', 유치원
+ 'KOSDAQ_100M.csv', 코스닥 상장기업
+ 'LAND_100M.csv', 토지가격
+ 'MIDDLE_POI.csv', 중학교
+ 'PRIMARY_POI.csv', 초등학교
+ 'UNIVERSITY_POI.csv', 대학교
+ 'VILLA_100M.csv' 빌라
+
+뒤에 100M, POI이 뭘 의미하는 지 모르겠다....
